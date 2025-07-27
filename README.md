@@ -21,7 +21,7 @@
 
 ### 📫 Contact Me
 - 📧 **zehramemmedzade438@gmail.com**
-- 📷 [Instagram](https://www.instagram.com/z.mdzd_/)
+- 📷 [Instagram-z.mdzd_](https://www.instagram.com/z.mdzd_/)
 
 ---
 
