@@ -18,12 +18,11 @@
 - SQL, MongoDB, REST APIs
 - React Native & Expo
 - C++ / C#
-
 ### 📫 Contact Me
--  [![Google](https://img.shields.io/badge/Google-purple?logo=mail&logoColor=white&style=for-the-badge)](**zehramemmedzade438@gmail.com**) 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/memmedzadezahra/)
-- [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.instagram.com/z.mdzd_/))
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zehramemmedzade438@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/memmedzadezahra/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/z.mdzd_/)
 
 
 ---
