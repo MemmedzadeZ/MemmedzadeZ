@@ -1,62 +1,53 @@
-<h1 align="center">Hi there 👋, I'm Zahra Memmedzade</h1>
+# 👩‍💻 Zahra Məmmədzadə — Full Stack Developer
 
-<p align="center">
-  A passionate Full Stack Developer | Lifelong Learner | Problem Solver
-</p>
+Salam! Mən proqram təminatı sahəsində inkişaf edən bir **Full Stack Developer** olaraq, daim öyrənməyə, real layihələr yaratmağa və kodun arxasındakı kreativliyi ortaya çıxarmağa çalışan biriyəm. Frontend və Backend sahələrində təcrübəm var və müasir texnologiyalardan istifadə edərək funksional tətbiqlər hazırlayıram.
 
 ---
 
-### 🚀 About Me
-- 🎓 Currently enhancing my skills in ASP.NET, React, and modern web development.
-- 🔍 Always exploring new technologies and best practices.
-- 🧠 305+ contributions in the last year, actively working on real-world projects.
-- 📌 Check out some of my pinned projects below!
+## 🛠️ Texnologiyalar və Bacarıqlar
+
+- **Frontend**: React.js, Redux Toolkit, TailwindCSS, Bootstrap  
+- **Backend**: ASP.NET Core, Entity Framework, SignalR  
+- **Verilənlər Bazası**: MSSQL, PostgreSQL  
+- **Digər Alətlər**: Git, GitHub, RESTful API, Postman, Figma
 
 ---
 
-### 💼 Connect with me
+## 📌 Seçilmiş Layihələr
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/memmedzadezahra/)
+### 🚀 [TaskFlow (Web)](https://github.com/MemmedzadeZ/taskflow)
+Layihə idarəetməsi üçün tam funksiyalı veb tətbiq. Əsas xüsusiyyətlər:
+- Giriş və qeydiyyat
+- Komanda yaradılması və idarə olunması
+- Tapşırıqların yaradılması, təyin edilməsi və status izlənməsi
+- Real-time mesajlaşma (SignalR)
+- Bildiriş sistemi və s.
 
----
-
-### 🛠️ Technologies & Tools
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
+**İstifadə olunan texnologiyalar:**  
+React, ASP.NET Core, SignalR, Entity Framework Core, MSSQL
 
 ---
 
-### 📌 Pinned Projects
+### 📱 [TaskFlow Mobile](https://github.com/NazrenG/Task-Flow-Mobile)
+TaskFlow-un mobil versiyası. React Native ilə hazırlanıb və əsas veb funksiyaların mobil platformada istifadəsini təmin edir.
 
-#### 🔹 TaskFlow - Project Management App
-A collaborative task and team management tool built with ASP.NET Core + React + SignalR.
-
-#### 🔹 SocialSphere - Social Networking Platform
-A dynamic platform with real-time chat, friend system, and profile management using ASP.NET & Entity Framework.
+**İstifadə olunan texnologiyalar:**  
+React Native, Redux Toolkit, AsyncStorage, Expo
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Aktivliyi
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahramemmedzade&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zahramemmedzade&theme=tokyonight" width="48%" />
-</p>
+> **305+ contributions in the last year**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahramemmedzade&layout=compact&theme=tokyonight" width="48%" />
-</p>
+Daim aktiv GitHub istifadəçisiyəm. Açıq mənbə dünyasında iştirak edir, şəxsi və komanda layihələrində kodlar yazıram.
 
 ---
 
-### ✨ Quote
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+## 📫 Əlaqə
+
+- 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/memmedzadezahra/)
+- 📂 GitHub: [MemmedzadeZ](https://github.com/MemmedzadeZ)
 
 ---
 
