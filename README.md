@@ -20,9 +20,10 @@
 - C++ / C#
 
 ### 📫 Contact Me
-- 📧 **zehramemmedzade438@gmail.com**
-- 📷 [Instagram-z.mdzd_](https://www.instagram.com/z.mdzd_/)
+-  [![Google](https://img.shields.io/badge/Google-purple?logo=mail&logoColor=white&style=for-the-badge)](**zehramemmedzade438@gmail.com**) 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/memmedzadezahra/)
+- [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.instagram.com/z.mdzd_/))
+
 
 
 ---
