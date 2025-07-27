@@ -1,53 +1,66 @@
-# 👩‍💻 Zahra Məmmədzadə — Full Stack Developer
+<h1 align="center">Hi 👋, I'm MemmedzadeZ</h1>
+<h3 align="center">A full-stack developer from Azerbaijan — frontend enthusiast, backend confident 💻</h3>
 
-Salam! Mən proqram təminatı sahəsində inkişaf edən bir **Full Stack Developer** olaraq, daim öyrənməyə, real layihələr yaratmağa və kodun arxasındakı kreativliyi ortaya çıxarmağa çalışan biriyəm. Frontend və Backend sahələrində təcrübəm var və müasir texnologiyalardan istifadə edərək funksional tətbiqlər hazırlayıram.
-
----
-
-## 🛠️ Texnologiyalar və Bacarıqlar
-
-- **Frontend**: React.js, Redux Toolkit, TailwindCSS, Bootstrap  
-- **Backend**: ASP.NET Core, Entity Framework, SignalR  
-- **Verilənlər Bazası**: MSSQL, PostgreSQL  
-- **Digər Alətlər**: Git, GitHub, RESTful API, Postman, Figma
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MemmedzadeZ&label=Profile%20Views&color=6e40c9&style=flat" alt="profile views" />
+</p>
 
 ---
 
-## 📌 Seçilmiş Layihələr
+### 🌱 Currently Learning
+- Next.js
+- TypeScript
+- Clean Architecture
 
-### 🚀 [TaskFlow (Web)](https://github.com/MemmedzadeZ/taskflow)
-Layihə idarəetməsi üçün tam funksiyalı veb tətbiq. Əsas xüsusiyyətlər:
-- Giriş və qeydiyyat
-- Komanda yaradılması və idarə olunması
-- Tapşırıqların yaradılması, təyin edilməsi və status izlənməsi
-- Real-time mesajlaşma (SignalR)
-- Bildiriş sistemi və s.
+### 💬 Ask Me About
+- .NET (ASP.NET Core, Entity Framework)
+- JavaScript / React / Redux
+- SQL, MongoDB, REST APIs
+- React Native & Expo
+- C++ / C#
 
-**İstifadə olunan texnologiyalar:**  
-React, ASP.NET Core, SignalR, Entity Framework Core, MSSQL
-
----
-
-### 📱 [TaskFlow Mobile](https://github.com/NazrenG/Task-Flow-Mobile)
-TaskFlow-un mobil versiyası. React Native ilə hazırlanıb və əsas veb funksiyaların mobil platformada istifadəsini təmin edir.
-
-**İstifadə olunan texnologiyalar:**  
-React Native, Redux Toolkit, AsyncStorage, Expo
+### 📫 Contact Me
+- 📧 **zehramemmedzade438@gmail.com**
+- 📷 [Instagram](https://www.instagram.com/z.mdzd_/)
 
 ---
 
-## 📊 GitHub Aktivliyi
-
-> **305+ contributions in the last year**
-
-Daim aktiv GitHub istifadəçisiyəm. Açıq mənbə dünyasında iştirak edir, şəxsi və komanda layihələrində kodlar yazıram.
+### 🛠️ Tech Stack
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="40" title="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000?logo=expo&logoColor=white&style=for-the-badge" height="28" title="Expo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" title=".NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+</p>
 
 ---
 
-## 📫 Əlaqə
+### 📊 GitHub Stats
 
-- 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/memmedzadezahra/)
-- 📂 GitHub: [MemmedzadeZ](https://github.com/MemmedzadeZ)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MemmedzadeZ&show_icons=true&theme=tokyonight" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MemmedzadeZ&layout=compact&theme=tokyonight" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MemmedzadeZ&theme=tokyonight" />
+</p>
 
 ---
 
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MemmedzadeZ&theme=darkhub" />
+</p>
