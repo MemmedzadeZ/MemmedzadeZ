@@ -2,7 +2,7 @@
 <h3 align="center">A full-stack developer from Azerbaijan — frontend enthusiast, backend confident 💻</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MemmedzadeZ&label=Profile%20Views&color=6e40c9&style=flat" alt="profile views" />
+  A passionate Full Stack Developer | Lifelong Learner | Problem Solver
 </p>
 
 ---
@@ -22,6 +22,8 @@
 ### 📫 Contact Me
 - 📧 **zehramemmedzade438@gmail.com**
 - 📷 [Instagram-z.mdzd_](https://www.instagram.com/z.mdzd_/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/memmedzadezahra/)
+
 
 ---
 
